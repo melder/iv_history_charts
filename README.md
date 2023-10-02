@@ -1,3 +1,7 @@
+# DEPRECATED
+
+https://github.com/melder/volatility_tools new best friend
+
 # IV history charts
 
 Web client for data scraped from https://github.com/melder/iv_scraper
